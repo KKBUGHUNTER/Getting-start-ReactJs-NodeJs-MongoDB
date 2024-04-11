@@ -227,5 +227,6 @@ node server.js
 ```bash
 npm start
 ```
+![image](https://github.com/KKBUGHUNTER/Getting-start-ReactJs-NodeJs-MongoDB/assets/91019132/ab3fff48-1454-4e41-9eb1-ba879499ee46)
 
 # Thank you....
