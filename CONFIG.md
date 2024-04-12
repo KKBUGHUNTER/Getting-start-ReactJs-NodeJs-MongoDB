@@ -62,6 +62,11 @@ mongosh
 
 ![image](https://github.com/KKBUGHUNTER/Getting-start-ReactJs-NodeJs-MongoDB/assets/91019132/64b55a1c-e688-4fca-b8ef-eadf1346ef04)
 
+**Step 07: Download and install MongoDB Compass**
+Download - https://www.mongodb.com/try/download/shell
+```bash
+sudo dpkg -i <filename.dpkg>
+```
 
-
-
+***
+# Thank you....
